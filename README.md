@@ -95,6 +95,19 @@ jobs:
 * Select default VPC
 * Now Click on "Create Application" 
 
-# Step 6 : Now Push all your cose to Github Repo.
+# Step 6 : Now Push all your code to Github Repo.
+
+# Conclusion:
+
+The project setup described to automate the entire workflow, from the development phase through to deployment. This setup encourages collaboration among team members and ensures consistency throughout the development and deployment processes. It is designed to facilitate a smooth and efficient workflow.
+
+
+# OUTPUT
+
+![Screenshot 2023-11-29 180928](https://github.com/Pradyumna018/Todo-List-App-Deployment-Using-GitHub-Action-CICD/assets/136186419/2fc26ccd-dd3c-4449-a804-47244cec4df9)
+
+# Thank You ❤️
+
+
 
 
