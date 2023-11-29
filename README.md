@@ -2,7 +2,7 @@
 
 # Note: For this project, we will use the "Ubuntu" machine. Commands may be different if you are using a different OS.
 
-# Step 1: Clone the source code
+# Step 1 : Clone the source code
 
 If you are using Ubuntu Machine, Git will be pre-installed. Clone the repository by using 'git clone' command and move into there.
 
