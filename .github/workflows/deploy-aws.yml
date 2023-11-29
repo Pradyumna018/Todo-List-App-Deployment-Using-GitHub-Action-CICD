@@ -22,6 +22,6 @@ jobs:
           application_name: todo-list-app
           environment_name: Todo-list-app-env
           version_label: ${{ github.sha }}
-          existing_bucket_name: todo-react-app1
+          existing_bucket_name: elasticbeanstalk-us-east-1-691097374572
           region: us-east-1
           deployment_package: deploy.zip
